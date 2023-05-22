@@ -5,7 +5,7 @@ Commuting Hermitian matrices $A$ and $B$ may be simultaneously diagonalized by a
 
 $U^H A U = \Lambda$, $U^H B U = M$.
 
-|dodo.m| computes $U$, $\Lambda$, and $M$. The routines under |test/| run the experiments described in the article
+`dodo.m` computes $U$, $\Lambda$, and $M$. The routines under `test/` run the experiments described in the article
 
 "Simultaneous diagonalization of nearly commuting Hermitian matrices: do-one-then-do-the-other"
 
